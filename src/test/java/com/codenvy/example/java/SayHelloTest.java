@@ -30,6 +30,6 @@ public class SayHelloTest extends TestCase {
      */
     public void testSayHello() {
         SayHello sayHello = new SayHello();
-        assertTrue("Hello, eXo".equals(sayHello.sayHello("eXo")));
+        assertTrue("Hello, Codenvy".equals(sayHello.sayHello("Codenvy")));
     }
 }
