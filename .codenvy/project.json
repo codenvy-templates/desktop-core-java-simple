@@ -1,1 +1,1 @@
-{"type":"maven","properties":[{"name":"builder.name","value":["maven"]},{"name":"framework","value":["javaStandaloneApp"]}]}
+{"attributes":{"framework":["javaStandaloneApp"]},"projectTypeId":"maven","builder":"maven","runner":null,"defaultBuilderEnvironment":null,"defaultRunnerEnvironment":null,"builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
