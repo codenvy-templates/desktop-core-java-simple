@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"builders":{"default":"maven"},"runners":{"configs":{}}}
+{"type":"maven","attributes":{},"runners":{"default":"system://default","configs":{}},"builders":{"default":"maven"}}
